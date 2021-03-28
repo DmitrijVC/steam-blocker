@@ -1,0 +1,9 @@
+# Build
+/target
+
+# Binary
+/bin
+
+# IntelliJ project
+/.idea
+steam-blocker.iml
