@@ -1,6 +1,6 @@
 # Steam Blocker
 A simple Windows app for blocking outgoing network traffic from Steam. <br>
-It works by modifying windows firewall rules. <br>
+It works by modifying Windows firewall rules. <br>
 Done as a GUI and C++ learning project.
 
 # Features
@@ -10,8 +10,8 @@ Done as a GUI and C++ learning project.
 - Dark theme
 
 # Usage
-- Run the app as an administrator
-- Check the log console for errors
+- Run the app as an administrator.
+- Check the log console for errors.
 - Click "Toggle" to enable or disable the blocker.
 
 # Compilation
@@ -44,6 +44,6 @@ Shouldn't happen if you won't mess with the `SBFwEditor.dll`
 - Provide a path to a directory where steam.exe is located
 
 # Fix missing SBFwEditor.dll
-- Go [here]()
-- Download version corresponding to the Steam Blocker one <br> *(v0.x.x SBFwEditor.dll = v0.y.y SteamBlocker.exe)*
+- Go [here](https://github.com/DmitrijVC/SBFwEditor)
+- Download version corresponding to the Steam Blocker one <br> *(0.x SBFwEditor.dll = v0.y.z SteamBlocker.exe)*
 - Put the `SBFwEditor.dll` to the `bin` folder which should be next to the SteamBlocker.exe
