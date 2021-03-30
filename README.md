@@ -3,7 +3,7 @@ A simple Windows app for blocking outgoing network traffic from Steam. <br>
 It works by modifying Windows firewall rules. <br>
 Done as a GUI and C++ learning project.
 
-<img src="https://i.imgur.com/46hOtrn.png">
+<img src="https://www.ultrasc.tk/images/F.png">
 
 # Features
 - Blocking outgoing network traffic
